@@ -4,5 +4,5 @@ sur Unreal Engine 5 en temps que de projet à rendre.
 Le déplacement se fait avec wasd
 et sauter avec espace.
 
-L'exécutable est dans le chemin ci contre : ParcoursObstacle\Game\Windows 
-et se nomme ParcoursObstacle.exe
+L'exécutable est à avoir dans release du repository,
+et se nomme ParcoursObstacle.exe dans le dossier Windows.
